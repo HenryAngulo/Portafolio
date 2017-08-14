@@ -1,0 +1,51 @@
+.about{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.about-r{
+    flex-basis: 0;
+    flex-grow: 2;
+    padding: 10px;
+    text-align: left;
+}
+
+.about-l{
+    flex-basis: 0;
+    flex-grow: 1;
+    padding: 10px;
+}
+.card{
+  margin: 10px 0;  
+}
+.about h3 {
+    color: #0086c3;
+    text-align: center;
+}
+.about a {
+    color: #0086c3;
+    text-decoration: none;
+}
+.info-element{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 1px solid gray;
+}
+
+.info-element > p {
+    width: 50%;
+    word-wrap: break-word;
+    text-align: right;
+    padding: 0 3px;
+}
+
+.value, .about li, .tech-info p{
+    text-align: left !important;
+}
+
+@media (max-width: 768px){
+    .about-r, .about-l{
+        flex-basis: 100%;
+    }
+}

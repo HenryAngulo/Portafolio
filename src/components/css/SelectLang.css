@@ -1,0 +1,20 @@
+.select-lang{
+    position: fixed !important;
+    bottom: 2px;
+    right: 2px;
+    height: 40px !important;
+    width: 150px !important;
+    background-color: white !important;
+    border-bottom: 1px solid #0086c3;
+    z-index: 10;
+}
+.Menu-item > div > div {
+    display: flex;
+    justify-content: center;
+    padding: 1% !important;
+}
+
+.Menu-item img {
+    margin: 0;
+    margin-right: 10px;
+}
