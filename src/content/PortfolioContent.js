@@ -20,8 +20,8 @@ const portfolioInfo = {
         },
         {
             name: 'ConFusion',
-            src: './img/portafolio/ciurliza.jpg',
-            text: 'Aplicación para la especialización Full Stack de la Universidad tecnológica de Hong Kong. Consiste en una Single page aplication (SPA) web hecha con Angular y Bootstrap, una app móvil hecha con Ionic, Angular y Cordova, ambas consumiendo la API hecha en NodeJS (una versión con Express y otra con Loopback) y MongoDB para la finalización de la especialización.'
+            src: './img/portafolio/confusion.jpg',
+            text: 'Aplicación de un restaurante para la especialización Full Stack de la Universidad tecnológica de Hong Kong. Consiste en una Single page aplication (SPA) web hecha con Angular y Bootstrap, una app móvil hecha con Ionic, Angular y Cordova, ambas consumiendo la API hecha en NodeJS (una versión con Express y otra con Loopback) y MongoDB para la finalización de la especialización.'
         },
         {
             name: 'Memegram',
@@ -63,7 +63,7 @@ const portfolioInfo = {
         {
             name: 'ConFusion',
             src: './img/portafolio/ciurliza.jpg',
-            text: 'Application for the Full Stack specialization of the Hong Kong University of Technology. It consists of a Single page application (SPA) Web made with angular and Bootstrap, a mobile app made with Ionic, angular and Cordova, both consuming the API made in NodeJS (a version with Express and another with Loopback) and MongoDB for the completion of specialization.'
+            text: 'Application of a restaurant for the Full Stack specialization of the Hong Kong University of Technology. It consists of a Single page application (SPA) Web made with angular and Bootstrap, a mobile app made with Ionic, angular and Cordova, both consuming the API made in NodeJS (a version with Express and another with Loopback) and MongoDB for the completion of specialization.'
         },
         {
             name: 'Memegram',
@@ -105,7 +105,7 @@ const portfolioInfo = {
         {
             name: 'ConFusion',
             src: './img/portafolio/ciurliza.jpg',
-            text: "App pour la spécialisation complète a l'Université de technologie de Hong Kong. Il se compose d'une Sigle page app (Spa) Web fait avec angular et bootstrap, une app mobile faite avec Ionic, angular et Cordova, cette deux en consommant de l'API faite dans NodeJS (une version avec Express et un autre avec Loopback) et MongoDB pour l'achèvement de la spécialisation."
+            text: "App d'un restaurant pour la spécialisation complète a l'Université de technologie de Hong Kong. Il se compose d'une Sigle page app (Spa) Web fait avec angular et bootstrap, une app mobile faite avec Ionic, angular et Cordova, cette deux en consommant de l'API faite dans NodeJS (une version avec Express et un autre avec Loopback) et MongoDB pour l'achèvement de la spécialisation."
         },
         {
             name: 'Memegram',
