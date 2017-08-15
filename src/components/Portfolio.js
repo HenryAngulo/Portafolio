@@ -6,7 +6,7 @@ import './css/Portfolio.css';
 function Portfolio({lang}){
     return(
         <div className="portfolio container">
-            {portfolioInfo['ES'].map(element =>
+            {portfolioInfo[lang].map(element =>
                 <CardItem
                     title={element.name}
                     src={element.src}
