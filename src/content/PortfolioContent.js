@@ -4,7 +4,7 @@ const portfolioInfo = {
             name: 'Mapa interactivo CDCVE',
             src: './img/portafolio/cdcve.jpg',
             link: 'http://cdcve.es/nosotros/',
-            text: 'Encargado de toda la parte front-end para el mapa interactivo de Venezuela hecho para el CDCVE (Centro de la Diversidad Cultural de Venezuela) en España. Divide el país en sus regiones y te muestra su historia, cultura y tradiciones. Una verdadera experiencia informativa y rica en contenido multimedia, además de contar con un diseño hermoso totalmente responsive.'
+            text: 'Encargado de toda la parte front-end para el mapa interactivo de Venezuela hecho para el CDCVE (Centro de la Diversidad Cultural de Venezuela) en España. Divide el país en sus regiones y te muestra su historia, cultura y tradiciones. Una verdadera experiencia informativa y rica en contenido multimedia, además de contar con un diseño hermoso.'
         },
         {
             name: 'Marcela Prieto',
@@ -46,7 +46,7 @@ const portfolioInfo = {
             name: 'Mapa interactivo CDCVE',
             src: './img/portafolio/cdcve.jpg',
             link: 'http://cdcve.es/nosotros/',
-            text: 'In charge of the front-end for the interactive map of Venezuela made for the CDCVE (center of the Cultural Diversity in Venezuela) in Spain. It divides the country into its regions and show you its history, culture and traditions. A real informative experience and rich in multimedia content, in addition to having a beautiful and fully responsive design.'
+            text: 'In charge of the front-end for the interactive map of Venezuela made for the CDCVE (center of the Cultural Diversity in Venezuela) in Spain. It divides the country into its regions and show you its history, culture and traditions. A real informative experience and rich in multimedia content, in addition to having a beautiful design.'
         },
         {
             name: 'Marcela Prieto',
@@ -88,7 +88,7 @@ const portfolioInfo = {
             name: 'Mapa interactivo CDCVE',
             src: './img/portafolio/cdcve.jpg',
             link: 'http://cdcve.es/nosotros/',
-            text: "En charge de le développement front-end pour la carte interactive du Venezuela, faite pour le CDCVE (Centre de la diversité culturelle du Venezuela) en Espagne. Il divise le pays en ses régions et vous montrer son histoire, sa culture et ses traditions. Une expérience très instructive et riche en contenu multimédia, en plus d'avoir un beau design pleinement responsive."
+            text: "En charge de le développement front-end pour la carte interactive du Venezuela, faite pour le CDCVE (Centre de la diversité culturelle du Venezuela) en Espagne. Il divise le pays en ses régions et vous montrer son histoire, sa culture et ses traditions. Une expérience très instructive et riche en contenu multimédia, en plus d'avoir un beau design."
         },
         {
             name: 'Marcela Prieto',

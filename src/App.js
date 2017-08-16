@@ -26,16 +26,18 @@ class App extends Component {
       <Router>
         <div className="App">
           <NavigationContainer lang={this.state.lang} />
-          <Switch>
-            <Route exact path="/" render={(props) => <Home {...props} lang={this.state.lang}/>} />
-            <Route exact path="/CV" render={(props) => <About {...props} lang={this.state.lang}/>} />
-            <Route exact path="/portfolio" render={(props) => <Portfolio {...props} lang={this.state.lang}/>} />
-          </Switch>
-          <Footer lang={this.state.lang} />
-          <SelectLang 
-            lang={this.state.lang}
-            selectLang={this.selectLang}
-          />
+          <div className="content">
+            <Switch>
+              <Route exact path="/" render={(props) => <Home {...props} lang={this.state.lang}/>} />
+              <Route exact path="/CV" render={(props) => <About {...props} lang={this.state.lang}/>} />
+              <Route exact path="/portfolio" render={(props) => <Portfolio {...props} lang={this.state.lang}/>} />
+            </Switch>
+            <Footer lang={this.state.lang} />
+            <SelectLang 
+              lang={this.state.lang}
+              selectLang={this.selectLang}
+            />
+          </div>
         </div>
       </Router>
     );

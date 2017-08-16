@@ -26,7 +26,7 @@ const pages = {
 function Navigation(props) {
     const { lang, location } = props;
     return (
-        <div>
+        <div className="nav">
             <AppBar 
                 className="AppBar"
                 title={pages[location][lang]}

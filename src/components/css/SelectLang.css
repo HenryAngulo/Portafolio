@@ -1,12 +1,12 @@
 .select-lang{
     position: fixed !important;
-    bottom: 2px;
-    right: 2px;
-    height: 40px !important;
+    top: 12px;
+    right: 8px;
     width: 150px !important;
-    background-color: white !important;
-    border-bottom: 1px solid #0086c3;
-    z-index: 10;
+    z-index: 20;
+}
+.select-lang div {
+    color: white !important;
 }
 .Menu-item > div > div {
     display: flex;

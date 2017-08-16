@@ -2,3 +2,7 @@
   text-align: center;
   position: relative;
 }
+.content{
+  position: relative;
+  top: 64px;
+}
