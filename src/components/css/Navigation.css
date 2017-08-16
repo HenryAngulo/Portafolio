@@ -11,3 +11,27 @@
 .AppBar h1 {
     text-align: left;
 }
+
+.drawer-title div{
+    height: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: #0086c3;
+}
+
+.drawer a {
+    text-decoration: none !important;
+    font-weight: bold !important;
+}
+
+.drawer a div, .footer-text a {
+    color: #0086c3 !important;
+}
+
+.footer-text {
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 14px;
+}

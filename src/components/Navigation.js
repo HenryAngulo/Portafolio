@@ -23,6 +23,12 @@ const pages = {
     }
 };
 
+const footer = {
+    'ES': <div className="footer-text">Portafolio hecho como una SPA (Single Page App), desarrollado en React, diseñado y traducido por mí. <a href="https://github.com/HenryAngulo/Portafolio" target="_blank">Click para ver codigo fuente</a></div>,
+    'EN': <div className="footer-text">Portfolio made as a SPA (Single Page App), developed using React, designed and translated by me.<a href="https://github.com/HenryAngulo/Portafolio" target="_ Blank"> Click to view source code</a></div> ,
+    'FR': <div className="footer-text">Portefeuille fait comme une Spa (Single Page App), développé en utilisant React, conçu et traduit par moi. <a href="https://github.com/HenryAngulo/Portafolio" target="_ Blank"> Cliquez pour voir le code source</a></div>
+}
+
 function Navigation(props) {
     const { lang, location } = props;
     return (
@@ -36,7 +42,11 @@ function Navigation(props) {
                 open={props.isDrawerOpen}
                 docked={false}
                 onRequestChange={props.togleDrawer}
+                className="drawer"
                 >
+              <MenuItem className="drawer-title">
+                HENRY ANGULO
+              </MenuItem>
               <Link to="/">
                 <MenuItem onClick={() => props.changeAndClose('home')}>
                 {pages['home'][lang]}
@@ -52,6 +62,7 @@ function Navigation(props) {
                 {pages['portfolio'][lang]}
                 </MenuItem>
               </Link>
+              {footer[lang]}
             </Drawer>
         </div>
         )
