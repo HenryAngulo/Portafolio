@@ -12,6 +12,13 @@
     justify-content: center;
     margin: 10px 0;
 }
+.sc-container{
+    text-align: left;
+}
+.sc-container a{
+    text-decoration: none;
+    color: #0086c3;
+}
 @media(min-width: 769px) {
     .portfolio .card > div > div {
     flex-basis: 0;

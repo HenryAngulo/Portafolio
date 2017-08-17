@@ -12,6 +12,7 @@ function Portfolio({lang}){
                     src={element.src}
                     lang={lang}
                     link={element.link}
+                    sc={element.sc}
                 >
                     {element.text}
                 </CardItem>

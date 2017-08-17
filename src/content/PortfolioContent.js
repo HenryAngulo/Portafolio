@@ -20,13 +20,45 @@ const portfolioInfo = {
         },
         {
             name: 'ConFusion',
+            sc: [
+                {
+                    title: 'Express API',
+                    link: 'https://github.com/HenryAngulo/Confusion-express-API'
+                },
+                {
+                    title: 'Express Angular',
+                    link: 'https://github.com/HenryAngulo/conFusion-Angular'
+                },
+                {
+                    title: 'Express Ionic',
+                    link: 'https://github.com/HenryAngulo/conFusion-Ionic',
+                },
+                {
+                    title: 'Loopback API',
+                    link: 'https://github.com/HenryAngulo/Loopback-Server-Bluemix'
+                },
+                {
+                    title: 'Loopback Angular',
+                    link: 'https://github.com/HenryAngulo/conFusion-loopback'
+                },
+                {
+                    title: 'Loopback Ionic',
+                    link: 'https://github.com/HenryAngulo/conFusion-Ionic-loopback'
+                }
+            ],
             src: './img/portafolio/confusion.jpg',
-            text: 'Aplicación de un restaurante para la especialización Full Stack de la Universidad tecnológica de Hong Kong. Consiste en una Single page aplication (SPA) web hecha con Angular y Bootstrap, una app móvil hecha con Ionic, Angular y Cordova, ambas consumiendo la API hecha en NodeJS (una versión con Express y otra con Loopback) y MongoDB para la finalización de la especialización.'
+            text: 'Aplicación de un restaurante para la especialización Full Stack de la Universidad tecnológica de Hong Kong. Consiste en una Single page aplication (SPA) web hecha con Angular y Bootstrap, una app móvil hecha con Ionic, Angular y Cordova, ambas consumiendo la API hecha en NodeJS (una versión con Express y otra con Loopback) y MongoDB para la finalización de la especialización. Ver codigo fuente:'
         },
         {
             name: 'Memegram',
+            sc: [
+                {
+                title: 'NodeJS App',
+                link: 'https://github.com/HenryAngulo/Memegram'
+                }
+            ],
             src: './img/portafolio/memegram.jpg',
-            text: 'Aplicación web hecha en Node y express, con MongoDB y moongose para la base de datos, Redis para las sesiones, Socket.io y Handlebars.js para la actualización en tiempo real de las imágenes. En esta App se usa Node para hacer el render del lado del servidor con Jade(HTML) para las vistas. '
+            text: 'Aplicación web hecha en Node y express, con MongoDB y moongose para la base de datos, Redis para las sesiones, Socket.io y Handlebars.js para la actualización en tiempo real de las imágenes. En esta App se usa Node para hacer el render del lado del servidor con Jade(HTML) para las vistas. Ver codigo fuente:'
         },
         {
             name: 'Weather App',
@@ -62,13 +94,45 @@ const portfolioInfo = {
         },
         {
             name: 'ConFusion',
-            src: './img/portafolio/ciurliza.jpg',
-            text: 'Application of a restaurant for the Full Stack specialization of the Hong Kong University of Technology. It consists of a Single page application (SPA) Web made with angular and Bootstrap, a mobile app made with Ionic, angular and Cordova, both consuming the API made in NodeJS (a version with Express and another with Loopback) and MongoDB for the completion of specialization.'
+            sc: [
+                {
+                    title: 'Express API',
+                    link: 'https://github.com/HenryAngulo/Confusion-express-API'
+                },
+                {
+                    title: 'Express Angular',
+                    link: 'https://github.com/HenryAngulo/conFusion-Angular'
+                },
+                {
+                    title: 'Express Ionic',
+                    link: 'https://github.com/HenryAngulo/conFusion-Ionic',
+                },
+                {
+                    title: 'Loopback API',
+                    link: 'https://github.com/HenryAngulo/Loopback-Server-Bluemix'
+                },
+                {
+                    title: 'Loopback Angular',
+                    link: 'https://github.com/HenryAngulo/conFusion-loopback'
+                },
+                {
+                    title: 'Loopback Ionic',
+                    link: 'https://github.com/HenryAngulo/conFusion-Ionic-loopback'
+                }
+            ],
+            src: './img/portafolio/confusion.jpg',
+            text: 'Application of a restaurant for the Full Stack specialization of the Hong Kong University of Technology. It consists of a Single page application (SPA) Web made with angular and Bootstrap, a mobile app made with Ionic, angular and Cordova, both consuming the API made in NodeJS (a version with Express and another with Loopback) and MongoDB for the completion of specialization. View source code:'
         },
         {
             name: 'Memegram',
+            sc: [
+                {
+                title: 'NodeJS App',
+                link: 'https://github.com/HenryAngulo/Memegram'
+                }
+            ],
             src: './img/portafolio/memegram.jpg',
-            text: 'Web application made in Node and Express, with MongoDB and moongose for the database, Redis for the sessions, Socket.io and Handlebars JS for the real-time updating of the images. This App uses Node to make the server-side rendering with Jade (HTML) for views. '
+            text: 'Web application made in Node and Express, with MongoDB and moongose for the database, Redis for the sessions, Socket.io and Handlebars JS for the real-time updating of the images. This App uses Node to make the server-side rendering with Jade (HTML) for views. View source code:'
         },
         {
             name: 'Weather App',
@@ -104,13 +168,45 @@ const portfolioInfo = {
         },
         {
             name: 'ConFusion',
-            src: './img/portafolio/ciurliza.jpg',
-            text: "App d'un restaurant pour la spécialisation complète a l'Université de technologie de Hong Kong. Il se compose d'une Sigle page app (Spa) Web fait avec angular et bootstrap, une app mobile faite avec Ionic, angular et Cordova, cette deux en consommant de l'API faite dans NodeJS (une version avec Express et un autre avec Loopback) et MongoDB pour l'achèvement de la spécialisation."
+            sc: [
+                {
+                    title: 'Express API',
+                    link: 'https://github.com/HenryAngulo/Confusion-express-API'
+                },
+                {
+                    title: 'Express Angular',
+                    link: 'https://github.com/HenryAngulo/conFusion-Angular'
+                },
+                {
+                    title: 'Express Ionic',
+                    link: 'https://github.com/HenryAngulo/conFusion-Ionic',
+                },
+                {
+                    title: 'Loopback API',
+                    link: 'https://github.com/HenryAngulo/Loopback-Server-Bluemix'
+                },
+                {
+                    title: 'Loopback Angular',
+                    link: 'https://github.com/HenryAngulo/conFusion-loopback'
+                },
+                {
+                    title: 'Loopback Ionic',
+                    link: 'https://github.com/HenryAngulo/conFusion-Ionic-loopback'
+                }
+            ],
+            src: './img/portafolio/confusion.jpg',
+            text: "App d'un restaurant pour la spécialisation complète a l'Université de technologie de Hong Kong. Il se compose d'une Sigle page app (Spa) Web fait avec angular et bootstrap, une app mobile faite avec Ionic, angular et Cordova, cette deux en consommant de l'API faite dans NodeJS (une version avec Express et un autre avec Loopback) et MongoDB pour l'achèvement de la spécialisation. Voir le code source: "
         },
         {
             name: 'Memegram',
+            sc: [
+                {
+                title: 'NodeJS App',
+                link: 'https://github.com/HenryAngulo/Memegram'
+                }
+            ],
             src: './img/portafolio/memegram.jpg',
-            text: "Application Web faite avec Node et Express, avec MongoDB et moongose pour la base de données, redis pour les sessions, Socket.IO et handlebars.js pour la mise à jour en temps réel des images. Cette application utilise Node avec Jade (html) pour le rendu de les vues."
+            text: "Application Web faite avec Node et Express, avec MongoDB et moongose pour la base de données, redis pour les sessions, Socket.IO et handlebars.js pour la mise à jour en temps réel des images. Cette application utilise Node avec Jade (html) pour le rendu de les vues. Voir le code source: "
         },
         {
             name: 'Weather App',
