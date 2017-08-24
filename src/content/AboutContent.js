@@ -23,7 +23,7 @@ const basicInfo = [
             'EN': 'Phone number',
             'FR': 'Numéro de téléphone',
         },
-        value: '+58 414 4377234'
+        value: '+56 9 72318699'
     },
     {
         field: {

@@ -1,6 +1,8 @@
 .App {
   text-align: center;
   position: relative;
+  color: #3E3D3D;
+  line-height: 24px;
 }
 .content{
   position: relative;
