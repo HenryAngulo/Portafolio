@@ -95,7 +95,6 @@ const skillInfo = {
                         <li>JSON Web Token (JWT), </li>
                         <li>OAuth</li>
                         <li>Socket.io</li>
-                        <li>GraphQL</li>
                         <li>REST</li>
                     </ul></div>
         },
@@ -109,7 +108,6 @@ const skillInfo = {
                     <ul>
                         <li>Ionic</li>
                         <li>Cordova</li>
-                        <li>React Native</li>
                     </ul></div>
         },
         {
@@ -195,7 +193,6 @@ const skillInfo = {
                         <li>JSON Web Token (JWT), </li>
                         <li>OAuth</li>
                         <li>Socket.io</li>
-                        <li>GraphQL</li>
                         <li>REST</li>
                     </ul></div>
         },
@@ -209,7 +206,6 @@ const skillInfo = {
                     <ul>
                         <li>Ionic</li>
                         <li>Cordova</li>
-                        <li>React Native</li>
                     </ul></div>
         },
         {
@@ -295,7 +291,6 @@ const skillInfo = {
                         <li>JSON Web Token (JWT), </li>
                         <li>OAuth</li>
                         <li>Socket.io</li>
-                        <li>GraphQL</li>
                         <li>REST</li>
                     </ul></div>
         },
@@ -309,7 +304,6 @@ const skillInfo = {
                     <ul>
                         <li>Ionic</li>
                         <li>Cordova</li>
-                        <li>React Native</li>
                     </ul></div>
         },
         {
