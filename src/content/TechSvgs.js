@@ -96,7 +96,7 @@ const facebook = {
 
 const gmail = {
     name: 'Hmac1994@gmail.com',
-    link: '#',
+    link: 'mailto:hmac1994@gmail.com',
     svg: <svg viewBox="0 0 256 194" version="1.1" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
         <defs>
             <linearGradient x1="0.00388991071%" y1="49.997619%" x2="100.032232%" y2="49.997619%" id="linearGradient-1">
